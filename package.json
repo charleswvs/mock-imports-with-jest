@@ -1,0 +1,15 @@
+{
+  "name": "mock-imports-with-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/charles00willian/mock-imports-with-jest.git",
+  "author": "Charles Willian <wcharlesw15@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
